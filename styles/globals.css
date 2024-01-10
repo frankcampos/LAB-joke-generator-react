@@ -28,7 +28,8 @@ button{
   
 }
 
-img{
+Image{
+  width: auto;
   border-radius: 10px;
   border-style: double;
   border-color: black;

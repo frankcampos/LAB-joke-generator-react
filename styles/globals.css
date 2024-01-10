@@ -18,5 +18,19 @@ a {
 }
 
 body {
-  background-color: #88effd;
+  background-color:white;
+}
+
+button{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  
+}
+
+img{
+  border-radius: 10px;
+  border-style: double;
+  border-color: black;
+  margin-bottom: 10px;
 }

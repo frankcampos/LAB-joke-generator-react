@@ -11,7 +11,10 @@ function Home() {
         margin: '0 auto',
       }}
     >
-      <h1>Welcome Home!</h1>
+      <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIghl93HlHR1-CH7QMq18-mHD5FxoQkwNr6A&usqp=CAU"
+        alt="Descriptive Alt Text"
+      />
       <Jokesbutton />
     </div>
   );

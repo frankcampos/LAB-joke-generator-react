@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Jokesbutton from '../components/Jokesbutton';
 
 function Home() {
@@ -11,7 +12,7 @@ function Home() {
         margin: '0 auto',
       }}
     >
-      <img
+      <Image
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIghl93HlHR1-CH7QMq18-mHD5FxoQkwNr6A&usqp=CAU"
         alt="Descriptive Alt Text"
       />
